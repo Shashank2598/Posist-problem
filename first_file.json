@@ -1,0 +1,29 @@
+{
+    "1": {
+        "timestamp": "20/08/2018",
+        "Data": {},
+        "NodeNumber": 0,
+        "NodeId": "",
+        "ReferenceNodeId": "",
+        "ChildNodeId": "",
+        "ReferenceChildNodeId": ""
+    },
+    "2": {
+        "timestamp": "20/08/2018",
+        "Data": {},
+        "NodeNumber": 0,
+        "NodeId": "",
+        "ReferenceNodeId": "",
+        "ChildNodeId": "",
+        "ReferenceChildNodeId": ""
+    },
+    "3": {
+        "timestamp": "20/08/2018",
+        "Data": {},
+        "NodeNumber": 0,
+        "NodeId": "",
+        "ReferenceNodeId": "",
+        "ChildNodeId": "",
+        "ReferenceChildNodeId": ""
+    }
+}
